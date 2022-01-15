@@ -6,7 +6,7 @@ public class C02_Variables {
 		// TODO Auto-generated method stub
 		String okul="Yildiz Koleji";
         
-        // ayni isim ve degisken turu ile ikinci defa variable olusturulamaz
+        // ayni isim ve degisken turu ile ikinci defa variable olusturulamaz...
         // String okul="Mehmet Koleji";
         
         
