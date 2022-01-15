@@ -4,6 +4,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 public class C04_FileInputStream {
+	 
 	@SuppressWarnings({ "unused", "resource" })
 	public static void main(String[] args) throws IOException {
 		// Java'da bir dosyaya ulasmak istedigimizde FileInputStream class'indan yardim aliriz

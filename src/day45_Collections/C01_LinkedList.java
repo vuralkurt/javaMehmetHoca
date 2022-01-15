@@ -19,7 +19,7 @@ public static void main(String[] args) {
 		
 		ll.add(0, 10); // List interface'den gelen ozellikle basa eleman ekleme
 		System.out.println(ll); // [10, 5, 7]
-		ll.addFirst(3); // queue interface'den gelen ozellikle basa eleman ekleme
+		ll.addFirst(3); // queue interface'den gelen ozellikle basa eleman ek++leme
 		System.out.println(ll); // [3, 10, 5, 7]
 		
 		LinkedList<Integer> ll2 = new LinkedList<>();

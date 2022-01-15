@@ -1,11 +1,13 @@
-package C04_Compute;
+package day48_maps_TheEND;
 
 import java.util.HashMap;
 import java.util.Map;
 
 public class C04_Compute {
+
 	public static void main(String[] args) {
-		Map<String, Integer> ornek= new HashMap<>();
+		
+     Map<String, Integer> ornek= new HashMap<>();
 		
 		ornek.put("A", 2);
 		ornek.put("B", 5);
@@ -27,7 +29,7 @@ public class C04_Compute {
 		ornek.computeIfPresent("L", (key,value) -> 2*value+5);
 		System.out.println(ornek); //
 		
-		
 
 	}
+
 }

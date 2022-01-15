@@ -1,4 +1,4 @@
-package day41_errors_garbageCollector;
+ package day41_errors_garbageCollector;
 
 public class C02 {
 	public static void main(String[] args) {

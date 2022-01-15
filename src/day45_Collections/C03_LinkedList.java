@@ -38,7 +38,7 @@ public static void main(String[] args) {
 		
 		System.out.println(ll.poll()); // null
 		
-		System.out.println(ll.hashCode()); // 1 java'nin vedigi hash code'u doner
+		System.out.println(ll.hashCode()); // 1 java'nin verdigi hash code'u doner
 		
 		ll2.add(7);
 		System.out.println(ll2.hashCode()); // 38

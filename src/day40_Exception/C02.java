@@ -30,7 +30,7 @@ public class C02 {
 			
 		} catch (InputMismatchException e) {
 			
-			System.out.println("girrdiginiz " + count + " adet sayinin toplami : " + toplam);
+			System.out.println("Girdiginiz " + count + " adet sayinin toplami : " + toplam);
 			
 		}
 		

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class C01_Alistirma1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		// Kullanicidan bir cumle ve bir kelime alin
         // verilen cumlenin verilen kelime(char squence) ile baslayip, baslamadigini
         // ve bitip bitmedigini yazdirin

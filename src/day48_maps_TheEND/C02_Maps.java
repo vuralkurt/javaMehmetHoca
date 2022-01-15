@@ -19,9 +19,6 @@ public class C02_Maps {
 		
 		System.out.println(dilBilenListesiOlustur(soruMap,istenenDil));
 		
-		
-
-
 	}
 
 	private static List<String> dilBilenListesiOlustur(Map<Integer, String> soruMap, String istenenDil) {

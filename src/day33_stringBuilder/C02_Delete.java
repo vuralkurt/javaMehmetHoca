@@ -20,7 +20,11 @@ public class C02_Delete {
 		System.out.println(sb.capacity());
 		
 		sb.delete(5, 90);
+		
 		System.out.println(sb);
+		System.out.println(sb.delete(0, sb.length()-1));
+		
+		
 		System.out.println(sb.capacity());
 		
 		
