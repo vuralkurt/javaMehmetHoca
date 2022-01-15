@@ -5,7 +5,7 @@ public class C01_Variables {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 // variable olusturmak ve deger atamak farkli islemlerdir
-        // istersek variable olusturma ve deger atamayi tek satirda yapabiliriz
+        // istersek variable olusturma ve deger atamayi tek satirda yapabiliriz...
         
         String ogrenciIsim = "Celal";
         
